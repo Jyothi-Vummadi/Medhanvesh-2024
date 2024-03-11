@@ -1,12 +1,12 @@
 # Medhanvesh-2024
 A portal where students can: <br/>
-View Technical Events being conducted at Medhanvesh 2024 at BVRIT Hyderabad <br/>
-Register for Technical Events being conducted at Medhanvesh 2024 at BVRIT Hyderabad <br/>
+• View Technical Events being conducted at Medhanvesh 2024 at BVRIT Hyderabad <br/>
+• Register for Technical Events being conducted at Medhanvesh 2024 at BVRIT Hyderabad <br/>
 
 # Team Members
-~ Vummadi Jyothi Reddy <br />
-~ Gangisetti Spurthy Vahini <br />
-~ Kasula Spandana <br />
+• Vummadi Jyothi Reddy <br />
+• Gangisetti Spurthy Vahini <br />
+• Kasula Spandana <br />
 
 College : BVRIT Hyderabad College of Engineering for Women <br />
 
@@ -16,5 +16,5 @@ CSS <br/>
 JavaScript <br/>
 
 # To view website 
-Download the project files and click on 'index.html' <br>
-Link to deployed website: https://bvrithyderabad.edu.in/medhanvesh2024/
+• Extract the Project Files and click on 'index.html' <br>
+• Link to deployed website: https://bvrithyderabad.edu.in/medhanvesh2024/
